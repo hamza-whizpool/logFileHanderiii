@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   'This project will create a logfile and main record of logfile.just import this library and check this pod'
                        DESC
 
-  s.homepage         = 'https://github.com/hamza-whizpool/logFileHandleriii'
+  s.homepage         = 'https://github.com/hamza-whizpool/logFileHanderiii'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hamza Mughal' => 'hamza.mughal@whizpool.com' }
-  s.source           = { :git => 'https://github.com/hamza-whizpool/logFileHandleriii.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/hamza-whizpool/logFileHanderiii.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
